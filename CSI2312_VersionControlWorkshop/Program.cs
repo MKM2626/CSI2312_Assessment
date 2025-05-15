@@ -40,6 +40,7 @@ namespace CSI2312_FinalAssessment
             {
                 Console.Clear();
                 Console.WriteLine("This is the submission of: [Michael Miller test]\n");
+                Console.WriteLine("This is the submission of: [Michael Miller]\n");
                 int index = 0;
                 Console.Write("The current data is: [");
                 foreach (int x in data)
